@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b166c3136f279993cfce5327a8a82d39",
+    "content-hash": "c9aa49795410ce8673720fe174252925",
     "packages": [
         {
             "name": "gvera/cache",
